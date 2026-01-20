@@ -24,7 +24,7 @@ The game runs entirely in the console and includes grid-based logic, scoring, le
 
 ## 📂 Project Structure
 
-CandyCrushConsole/
+Candy-Crush-Console-App/
 │
 ├── Program.cs
 ├── Game.cs
