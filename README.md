@@ -1,2 +1,48 @@
-# Candy-Crush-Console-App
-A C# console-based game inspired by Candy Crush, featuring grid logic, scoring system, levels, and keyboard controls using OOP principles.
+# 🎮 Candy Crush Console Game (C#)
+
+A C# console-based game inspired by **Candy Crush**, developed using **Object-Oriented Programming (OOP)** principles.  
+The game runs entirely in the console and includes grid-based logic, scoring, levels, and keyboard-based interaction.
+
+---
+
+## ✨ Features
+- Console-based game interface
+- Grid / board logic
+- Scoring system
+- Level progression
+- Keyboard input handling
+- Modular OOP design (separate classes)
+
+---
+
+## 🛠 Technologies Used
+- C#
+- .NET Console Application
+- Visual Studio
+
+---
+
+## 📂 Project Structure
+
+CandyCrushConsole/
+│
+├── Program.cs
+├── Game.cs
+├── Board.cs
+├── InputHandler.cs
+├── CandyCrushConsole.csproj
+├── CandyCrushConsole.sln
+
+## 📌 Note
+This is a **student learning project** and is not affiliated with or endorsed by King (Candy Crush owners).
+
+---
+
+## © Copyright
+© 2026 M Huzaifa Aslam. All rights reserved.
+
+---
+
+## 🔗 Useful Links
+- [My GitHub Profile](https://github.com/huzaifa-aslam-029)  
+- [Other Projects](https://github.com/huzaifa-aslam-029?tab=repositories)
