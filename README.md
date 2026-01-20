@@ -25,13 +25,13 @@ The game runs entirely in the console and includes grid-based logic, scoring, le
 ## 📂 Project Structure
 
 Candy-Crush-Console-App/
-│
-├── Program.cs
-├── Game.cs
-├── Board.cs
-├── InputHandler.cs
+├── Program.cs            # Main program
+├── Game.cs               # Game logic
+├── Board.cs              # Board logic
+├── InputHandler.cs       # Keyboard input
 ├── CandyCrushConsole.csproj
 ├── CandyCrushConsole.sln
+└── README.md             # This file
 
 ## 📌 Note
 This is a **student learning project** and is not affiliated with or endorsed by King (Candy Crush owners).
